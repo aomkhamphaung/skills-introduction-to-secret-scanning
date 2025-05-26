@@ -6,7 +6,7 @@ Yay **aomkhamphaung** you finished the exercise! Nice work :tada:
 
 If you would like to retrace your steps, you can always revisit the exercise.
 
-[![](https://img.shields.io/badge/Return%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/aomkhamphaung/skills-introduction-to-secret-scanning/issues/1)
+[![](https://img.shields.io/badge/Return%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/aomkhamphaung/skills-introduction-to-secret-scanning/issues/2)
 
 > [!TIP]
 > Mona won't grade you this time! 😉
